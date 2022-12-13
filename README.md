@@ -1,2 +1,3 @@
 # image-slider
-Beautiful Image Slider Animation
+Beautiful Image Slider Implemented in React and Vanilla JS
+
